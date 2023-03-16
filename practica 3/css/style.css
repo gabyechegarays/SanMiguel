@@ -1,0 +1,105 @@
+.gaby{height:503px;
+    margin:0;
+    background-color:#3399CC;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: white;
+}
+
+
+article{
+font-size:40px;
+margin-top:20px;
+margin-right:50px; 
+margin-left:50px;
+
+}
+
+header{text-align:center;
+color:white;
+font-family: 'Gochi Hand', cursive;
+    font-size: 50px;
+}
+
+body{
+    
+    margin: 0;
+	background: url("../img/fondo-azul.jpg") no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+    font-family: 'Saira Condensed', sans-serif;}
+
+
+#gaby{border-radius:300px;
+text-align: center;
+    height:300px;
+    width: 300px;
+
+    
+}
+#perfil{
+    margin:0;
+    }
+#frases{
+    margin:0;
+    font-size:40px;
+}
+#video{
+    text-align:left;
+    color:saddlebrown;
+    padding-left: 25%;
+    padding-right: 25%;
+    font-size: 50px;
+}
+
+
+#portada{
+    margin:0;
+    height:500px;
+    text-align:center;
+    padding-top:100px; }
+
+
+#momentos{color:white;}
+
+#footer{
+    padding-left: 35px;
+	padding-right: 35px;
+	padding-top: 50px;
+	padding-bottom: 35px;
+	text-align: center;
+	height: auto;
+	background-color: deepskyblue;
+	color: white;
+}
+
+h2{text-align: left;}
+    
+}
+
+li{color:white;
+    font-size:40px; }
+td{color:white;
+    font-size:30px
+    
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+
+th, td {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover{background-color:#bda7b5}
+.hover_img a { position:relative; }
+.hover_img a span { position:absolute; display:none; z-index:99; }
+.hover_img a:hover span { display:block; }
