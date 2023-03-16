@@ -1,1 +1,1 @@
-# SanMiguel.io
+# SanMiguel
